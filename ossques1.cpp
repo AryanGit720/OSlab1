@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n,sum=0,avg;
+    cout<<"give value of n: ";
     cin>>n;
     int arr[n];
     cout<<"input your numbers: ";
